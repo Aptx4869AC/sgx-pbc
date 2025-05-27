@@ -44,3 +44,11 @@ sudo make install
 After installation, the PBC library will be located at `/usr/local/include/pbc`. It is recommended to rename it to `sgx-pbc` (or another name) to avoid conflicts with the C++ source version of `pbc-0.5.14`.
 
 ![image-20240607102627857](README.assets/image-20240607102627857.png)
+
+
+
+## License
+
+If you found this useful, I'd greatly appreciate a **Star ⭐** to show your support!  It helps others discover this project too. 
+
+Copyright :copyright:2024 [Aptx4869AC](https://github.com/Aptx4869AC)
